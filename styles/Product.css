@@ -84,7 +84,6 @@ body{
 .productList{
   display: flex;
   justify-content: space-around;
-  /* align-items: center; */
 }
 .productList img{
   width: 50%;
